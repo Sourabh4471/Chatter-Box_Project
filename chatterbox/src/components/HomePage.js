@@ -21,7 +21,8 @@ const HomePage = () => {
             <div class="collapse navbar-collapse" id="navbarResponsive">
                             <ul class="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <Link className="nav-link text-white" to="/signin" >Sign In</Link>
+                                    <Link className="nav-link text-white" to="/signin" >REGISTER  Hello</Link>
+                                    
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link text-white" to="/signup" >Sign Up</Link>
@@ -29,7 +30,7 @@ const HomePage = () => {
                             </ul>
                         </div>
 
-
+        
         </div>
 
     );
