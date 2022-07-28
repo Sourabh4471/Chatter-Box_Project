@@ -25,7 +25,7 @@ const HomePage = () => {
                                     
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link text-white" to="/signup" >Sign Up</Link>
+                                    <Link className="nav-link text-white" to="/signup" >Sign Uppppp</Link>
                                 </li>
                             </ul>
                         </div>
