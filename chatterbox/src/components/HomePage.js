@@ -17,7 +17,7 @@ export default function HomePage() {
   });
   return (
     //using bootstrap and custom css to make homepage
-    
+    {}
     
   );
 }
