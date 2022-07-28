@@ -21,12 +21,12 @@ const HomePage = () => {
             <div class="collapse navbar-collapse" id="navbarResponsive">
                             <ul class="navbar-nav ml-auto">
                                 <li className="nav-item">
-<<<<<<< HEAD
+< HEAD></HEAD>
                                     <Link className="nav-link text-white" to="/register" >REGISTER  Hello</Link>
-=======
+
                                     <Link className="nav-link text-white" to="/signin" >Sign In</Link>
                                     
->>>>>>> sourabh
+
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link text-white" to="/signup" >Sign Uppppp</Link>
@@ -34,7 +34,7 @@ const HomePage = () => {
                             </ul>
                         </div>
 
-        
+       
         </div>
 
     );
