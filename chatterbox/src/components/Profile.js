@@ -4,7 +4,7 @@ import background2 from "./assets/white.jpeg";
 import cric from "./assets/olalogo.png";
 import { useEffect, useState } from "react";
 
-const HomePage = () => {
+const Profile = () => {
 
     let [user, setUser] = useState({});
 
@@ -21,10 +21,10 @@ const HomePage = () => {
             <div class="collapse navbar-collapse" id="navbarResponsive">
                             <ul class="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <Link className="nav-link text-white" to="/signin" >Sign In</Link>
+                                    <Link className="nav-link text-white" to="/signin" >Working</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link text-white" to="/signup" >Sign Up</Link>
+                                    <Link className="nav-link text-white" to="/signup" >Working</Link>
                                 </li>
                             </ul>
                         </div>
@@ -38,4 +38,4 @@ const HomePage = () => {
 
 }
 
-export default HomePage;
+export default Profile;
